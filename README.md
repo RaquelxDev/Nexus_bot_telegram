@@ -1,6 +1,5 @@
 # Maven de telegrambots
 
-```
-![image](https://github.com/user-attachments/assets/c9b8e82b-0b5f-4c65-95f7-b9c370526300)
 
-```
+![Captura de pantalla 2024-08-19 151721](https://github.com/user-attachments/assets/6fca39b7-2f3a-4cd8-aff3-4ecddfb5066d)
+
