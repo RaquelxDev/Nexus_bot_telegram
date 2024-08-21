@@ -4,7 +4,7 @@
 
 # Pruebas del bot
 
-## 1
+## Primero
 <p align="center">
   <span style="display: inline-block; vertical-align: top;">
     <img src="https://github.com/user-attachments/assets/3f73b901-fe18-4bbe-9763-2323039dc259" alt="Bot Image 1" height="500"/>
@@ -17,6 +17,11 @@
   </span>
 </p>
 
+## Segundo
 
-
+<p align="center">
+  <span style="display: inline-block; vertical-align: top;">
+    <img src="https://github.com/user-attachments/assets/f0c3c851-382d-4f21-9d4b-d8597ac3dadf" alt="Bot Image 1" height="500"/>
+  </span>
+</p>
 
