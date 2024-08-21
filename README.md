@@ -4,7 +4,7 @@
 
 # Pruebas del bot
 
-##1
+## 1
 <p align="center">
   <span style="display: inline-block; vertical-align: top;">
     <img src="https://github.com/user-attachments/assets/3f73b901-fe18-4bbe-9763-2323039dc259" alt="Bot Image 1" height="500"/>
