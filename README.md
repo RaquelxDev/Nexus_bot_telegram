@@ -4,7 +4,7 @@
 
 # Pruebas del bot
 
-## Primero
+## #1
 <p align="center">
   <span style="display: inline-block; vertical-align: top;">
     <img src="https://github.com/user-attachments/assets/3f73b901-fe18-4bbe-9763-2323039dc259" alt="Bot Image 1" height="500"/>
@@ -17,7 +17,7 @@
   </span>
 </p>
 
-## Segundo
+## #2
 
 <p align="center">
   <span style="display: inline-block; vertical-align: top;">
@@ -25,21 +25,21 @@
   </span>
 </p>
 
-## Tercero
+## #3
 <p align="center">
   <span style="display: inline-block; vertical-align: top;">
     <img src="https://github.com/user-attachments/assets/75c6414e-5e7a-4d65-a902-c7b76408d7f2" alt="Bot Image 1" height="500"/>
   </span>
 </p>
 
-## Cuarto
+## #4
 <p align="center">
   <span style="display: inline-block; vertical-align: top;">
     <img src="https://github.com/user-attachments/assets/908b4410-d4c5-4d1d-b0d7-762fa35ddfae" alt="Bot Image 1" height="500"/>
   </span>
 </p>
 
-## Quinto
+## #5
 <p align="center">
   <span style="display: inline-block; vertical-align: top;">
     <img src="https://github.com/user-attachments/assets/9581e5c8-b4d4-4744-84e1-e01db163c31b" alt="Bot Image 1" height="550"/>
