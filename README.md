@@ -39,6 +39,12 @@
   </span>
 </p>
 
+## Quinto
+<p align="center">
+  <span style="display: inline-block; vertical-align: top;">
+    <img src="https://github.com/user-attachments/assets/9581e5c8-b4d4-4744-84e1-e01db163c31b" alt="Bot Image 1" height="550"/>
+  </span>
+</p>
 
 
 
